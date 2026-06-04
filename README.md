@@ -40,6 +40,16 @@ The purpose of this lab is to build a long-term AI research archive that support
 - [Prompt Engineering](categories/06-prompt-engineering.md)
 - [Knowledge Management](categories/07-knowledge-management.md)
 
+## Initial Resource Set
+
+| Category | Resource | Purpose |
+|---|---|---|
+| Large Language Models | [ChatGPT](categories/01-llm.md) | General reasoning, research, writing, coding assistance, and workflow design |
+| AI Agents | [OpenAI Codex](categories/02-ai-agents.md) | Repository inspection, code editing, documentation updates, and development assistance |
+| Coding Assistants | [Cursor](categories/03-coding-assistants.md) | AI-assisted coding, refactoring, debugging, and codebase navigation |
+| Browser AI | [MaxAI](categories/04-browser-ai.md) | Webpage summarization, article reading, and browser-side research acceleration |
+| Automation | [n8n](categories/05-automation.md) | Workflow automation, API integrations, scheduled tasks, and AI tool connections |
+
 ## Resource Evaluation Template
 
 Use this template when adding a new AI tool, project, or workflow.
