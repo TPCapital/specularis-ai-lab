@@ -49,6 +49,8 @@ The purpose of this lab is to build a long-term AI research archive that support
 | Coding Assistants | [Cursor](categories/03-coding-assistants.md) | AI-assisted coding, refactoring, debugging, and codebase navigation |
 | Browser AI | [MaxAI](categories/04-browser-ai.md) | Webpage summarization, article reading, and browser-side research acceleration |
 | Automation | [n8n](categories/05-automation.md) | Workflow automation, API integrations, scheduled tasks, and AI tool connections |
+| Prompt Engineering | [OpenAI Prompt Engineering Guide](categories/06-prompt-engineering.md) | Prompt design, instruction structure, and reusable AI workflow patterns |
+| Knowledge Management | [Obsidian](categories/07-knowledge-management.md) | Local-first knowledge base for notes, research, frameworks, and long-term archives |
 
 ## Resource Evaluation Template
 
