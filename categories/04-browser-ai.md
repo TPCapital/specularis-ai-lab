@@ -15,7 +15,7 @@ Curated resources for browser-based AI assistants, webpage summarization, search
 
 ## Resources
 
-### Resource Name
+### Resource Name 
 
 - Link:
 - Category:
