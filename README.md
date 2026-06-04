@@ -40,6 +40,11 @@ The purpose of this lab is to build a long-term AI research archive that support
 - [Prompt Engineering](categories/06-prompt-engineering.md)
 - [Knowledge Management](categories/07-knowledge-management.md)
 
+## Research Workflow
+
+- [Inbox](inbox.md) — Temporary list of AI tools, agents, and workflows waiting for review.
+- [Evaluation Framework](evaluation-framework.md) — Criteria for evaluating AI tools, agents, automation systems, and knowledge resources.
+
 ## Initial Resource Set
 
 | Category | Resource | Purpose |
