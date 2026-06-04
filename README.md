@@ -1,24 +1,51 @@
 # Specularis AI Lab
 
-A curated index for AI tools, agents, automation workflows, coding assistants, and human-AI productivity systems.
+**AI tools, agents, automation workflows, and human-AI productivity systems.**
+
+Specularis AI Lab is a curated research index for AI tools, large language models, coding assistants, browser AI, automation workflows, prompt engineering, and knowledge systems.
 
 This repository does not redistribute third-party code. It only links to original projects and includes personal research notes for learning, evaluation, and system design.
 
+## Purpose
+
+The purpose of this lab is to build a long-term AI research archive that supports:
+
+- AI-assisted productivity
+- Coding and development workflows
+- AI agents and automation systems
+- Browser-based research and summarization
+- Prompt engineering
+- Knowledge management
+- Human-AI collaboration
+
 ## Structure
 
-- Large Language Models
-- AI Agents
-- Coding Assistants
-- Browser AI
-- Automation
-- Prompt Engineering
-- Knowledge Management
-- Local AI
-- AI Productivity
+| Area | Focus |
+|---|---|
+| Large Language Models | GPT, Claude, Gemini, open-source models, model comparison |
+| AI Agents | Autonomous agents, task agents, workflow agents, research agents |
+| Coding Assistants | Codex, Cursor, Claude Code, Copilot, code generation workflows |
+| Browser AI | Webpage summarization, browser assistants, search and research tools |
+| Automation | Workflow automation, task execution, integrations, no-code and low-code tools |
+| Prompt Engineering | Prompt frameworks, reusable templates, reasoning structures |
+| Knowledge Management | Notes, databases, retrieval systems, personal knowledge infrastructure |
 
-## Resource Template
+## Category Index
 
-### Project Name
+- [Large Language Models](categories/01-llm.md)
+- [AI Agents](categories/02-ai-agents.md)
+- [Coding Assistants](categories/03-coding-assistants.md)
+- [Browser AI](categories/04-browser-ai.md)
+- [Automation](categories/05-automation.md)
+- [Prompt Engineering](categories/06-prompt-engineering.md)
+- [Knowledge Management](categories/07-knowledge-management.md)
+
+## Resource Evaluation Template
+
+Use this template when adding a new AI tool, project, or workflow.
+
+```md
+### Resource Name
 
 - Link:
 - Category:
